@@ -1,6 +1,7 @@
 # java-mudi-alura
 ### Spring MVC: Web app com Thymeleaf e Bootstrap e autenticação com Spring Security, API Rest e AJAX
-Autenticação com Spring Security Ver primeiro vídeo
+
+##### Autenticação com Spring Security
 ##### Criando views melhores com Thymeleaf
 ##### Validando os seus dados com o BeanValidation
 ##### Resolvendo as dependências com injeção de dependências
@@ -18,7 +19,8 @@ Autenticação com Spring Security Ver primeiro vídeo
 ##### AJAX e Vue.js
 ##### Validações com Vue.js
 ##### Monitoramento com Interceptadores
-##### Conhecendo o Spring MVC Ver primeiro vídeo
+
+##### Conhecendo o Spring MVC
 ##### Thymeleaf e Bootstrap
 ##### Integração com Spring Data
 ##### Trabalhando com formulário
